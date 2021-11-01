@@ -1,0 +1,100 @@
+{
+  "establishment Comida Asiatica": {
+    "avgPrice": "33.07",
+    "category Bebidas": {
+      "product Guaran\u00e1": {
+        "price": "9.00"
+      },
+      "product \u00c1gua": {
+        "price": "5.00"
+      }
+    },
+    "category Chinesa": {
+      "product Rolinho Primavera": {
+        "price": "15.90"
+      }
+    },
+    "category Japonesa": {
+      "product Sushi": {
+        "price": "70.00"
+      },
+      "product Temaki": {
+        "price": "20.90"
+      }
+    },
+    "category Oriental": {
+      "product Rolinho Primavera": {
+        "price": "15.90"
+      },
+      "product Sushi": {
+        "price": "70.00"
+      },
+      "product Temaki": {
+        "price": "20.90"
+      }
+    },
+    "category Refei\u00e7\u00f5es": {
+      "product Sushi": {
+        "price": "70.00"
+      }
+    }
+  },
+  "establishment Fast Lanches": {
+    "avgPrice": "21.06",
+    "category Bebidas": {
+      "product Guaran\u00e1": {
+        "price": "9.00"
+      },
+      "product Suco": {
+        "price": "6.00"
+      },
+      "product \u00c1gua": {
+        "price": "5.00"
+      }
+    },
+    "category Fast food": {
+      "product Hamburguer": {
+        "price": "28.50"
+      }
+    },
+    "category Lanche": {
+      "product Batata frita": {
+        "price": "15.00"
+      },
+      "product Hamburguer": {
+        "price": "28.50"
+      },
+      "product Xis Carne": {
+        "price": "31.00"
+      },
+      "product Xis Cora\u00e7\u00e3o": {
+        "price": "36.50"
+      },
+      "product Xis Frango": {
+        "price": "30.00"
+      }
+    }
+  },
+  "establishment Restaurante": {
+    "avgPrice": "15.98",
+    "category Bebidas": {
+      "product Guaran\u00e1": {
+        "price": "9.00"
+      },
+      "product Suco": {
+        "price": "6.00"
+      },
+      "product \u00c1gua": {
+        "price": "5.00"
+      }
+    },
+    "category Refei\u00e7\u00f5es": {
+      "product Alaminuta": {
+        "price": "28.00"
+      },
+      "product Churrasco": {
+        "price": "31.90"
+      }
+    }
+  }
+}
